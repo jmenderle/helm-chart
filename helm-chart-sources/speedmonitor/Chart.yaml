@@ -1,6 +1,6 @@
 apiVersion: v2
 name: speedmonitor
-description: A Helm chart for Kubernetes
+description: Deploys a bandwidth monitoring service
 
 # A chart can be either an 'application' or a 'library' chart.
 #
